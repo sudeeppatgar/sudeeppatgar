@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeeppatgar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudeeppatgar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=sudeeppatgar&theme=onedark&margin-w=8&margin-h=8" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudeeppatgar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeeppatgar&layout=compact&theme=dark" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudeeppatgar&icon=0&color=0)](https://visitcount.itsvg.in)
